@@ -1,0 +1,21 @@
+{
+  "name": "tfr.dev",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "serve --no-clipboard public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tfrijsewijk/tfr.dev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tfrijsewijk/tfr.dev/issues"
+  },
+  "homepage": "https://github.com/tfrijsewijk/tfr.dev#readme",
+  "devDependencies": {
+    "serve": "^11.1.0"
+  }
+}
